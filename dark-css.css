@@ -1,0 +1,23 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+body{
+  background-color: black;
+}
+
+#octocat {
+  display: block;
+  width:384px;
+  margin: 50px auto;
+}
+
+p {
+  color: white;
+  display: block;
+  width: 400px;
+  margin: 50px auto;
+  font: 30px Monaco,Courier New,DejaVu Sans Mono,Bitstream Vera Sans Mono,monospace;
+}
+
